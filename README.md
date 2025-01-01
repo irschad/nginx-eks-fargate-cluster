@@ -163,7 +163,7 @@ spec:
   selector:
     app: nginx
   type: LoadBalancer
-
+```
 
 ---
 
